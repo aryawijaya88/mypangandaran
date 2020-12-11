@@ -1,0 +1,27 @@
+{
+  "name": "My Pangandaran Site",
+  "short_name": "My Pangandaran",
+  "description": "Informasi Destinasi Wisata Kabupaten Pangandaran",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "urls": [
+    "https://fonts.googleapis.com/**",
+    "https://fonts.gstatic.com/**"
+  ]
+}
